@@ -101,6 +101,6 @@ A higher availability means that the properties in the neighbourhood are easier 
 
 Having a look at all the neighbourhoods, the trends seem to be that the lower crime neighbourhoods are more expensive and are more difficult to rent in comparison to areas such as Dorchester, where incident counts and availability are high, but the price is low.
 
-If you would like to have a look into my breakdown of the data, the link to my Github repository is <a href = "https://github.com/qasim1020/Writing-a-Data-Scientist-blog--Post/tree/Test">here</a>
+If you would like to have a look into my breakdown of the data, the link to my Github repository is <a href = "https://github.com/ankit201/Datascientist_blogpost">here</a>
 
 Thanks for taking the time to read this blog, I appreciate all feedback and critiques.
